@@ -10,7 +10,7 @@ Python · Makine Öğrenmesi / Machine Learning · Veri Analizi / Data Analysis 
 ## 🇹🇷 Türkçe
 
 ### Hakkımda
-Atatürk Üniversitesi Yazılım Mühendisliği bölümünde 4. sınıf öğrencisiyim (beklenen mezuniyet: 2027 Bahar). Python, makine öğrenmesi, derin öğrenme ve veri analizi üzerine çalışıyorum. TEKNOFEST kapsamında Sürü İHA ve Savaşan İHA takımlarında Gazebo, ArduPilot SITL ve MAVLink ile simülasyon çalışmaları yaptım; Sağlıkta Yapay Zekâ yarışmasında takım kaptanlığı üstlendim. Üniversite topluluklarında GDG on Campus tasarım ekibinde ve Softech organizasyon ekibinde yer aldım.
+Atatürk Üniversitesi Yazılım Mühendisliği bölümünde 4. sınıf öğrencisiyim (beklenen mezuniyet: 2027 Bahar). Python, makine öğrenmesi, derin öğrenme ve veri analizi üzerine çalışıyorum. TEKNOFEST kapsamında Sürü İHA ve Savaşan İHA takımlarında Gazebo, ArduPilot SITL ve MAVLink ile simülasyon çalışmaları yaptım; Sağlıkta Yapay Zekâ yarışmasında yarı final aşamasına kadar ilerledik. Üniversite topluluklarında GDG on Campus tasarım ekibinde ve Softech organizasyon ekibinde yer aldım.
 
 ### Teknik Yetkinlikler
 - **Diller:** Python, C#, Java, JavaScript, C, C++, PHP, SQL
